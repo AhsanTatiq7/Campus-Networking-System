@@ -204,27 +204,7 @@ The data structures and algorithms in this project are the **exact same foundati
 
 ---
 
-## 📸 Screenshots
 
-### Main Card View
-> *Add screenshot here — the 3-column student card grid with dept colors, avatars, and interest tags*
-
-### Student Profile Popup
-> *Add screenshot here — compact hero with side-by-side avatar + name, stat boxes, 2-col connection grid*
-
-### Smart Study Partner
-> *Add screenshot here — partner card + 2-column reason grid*
-
-### Shortest Path Visualization
-> *Add screenshot here — node chain with department-colored avatars and step-by-step cards*
-
-### Live Analytics Dashboard
-> *Add screenshot here — 6 stat cards, matplotlib bar chart, top-3 leaderboard*
-
-### Network Graph (NetworkX)
-> *Add screenshot here — full graph visualization with dept-colored nodes*
-
----
 
 ## 📁 Project Structure
 
